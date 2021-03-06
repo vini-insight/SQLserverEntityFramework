@@ -25,6 +25,41 @@ EFcore:
     dotnet ef database update
 
 
+# TOTORIAIS PARA REVER:
+
+https://www.youtube.com/watch?v=but7jqjopKM
+https://balta.io/cursos
+
+https://www.youtube.com/watch?v=ipbSwv09dDU (VINICIUS ANDRADE)
+https://github.com/vsandrade/EFCoreCurso
+https://github.com/vsandrade/React-CRUD-with-Asp.Net-Core-Web-API/tree/master/WebAPI/WebAPI
+
+web api com EFcore + SQLserver FUNFANDO:
+https://www.youtube.com/watch?v=HU-TZfGO-Do
+https://github.com/JalpeshVadgama/aspnetcoreefwebapi
+web api com EFcore + SQLserver FUNFANDO:
+
+https://daniel-krzyczkowski.github.io/Entity-Framework-Core-with-ASP-.Net-Core-Web-API-jump-start/
+
+PLAYLIST MVC:
+https://www.youtube.com/watch?v=CLVJVA9cTuU&list=PL4WEkbdagHIQVbiTwos0E38VghMJA06OT
+https://github.com/CuriousDrive/BookStores
+
+
+Totorial 2: MVC application with SQL server and Entity Framework
+https://www.learnentityframeworkcore.com/walkthroughs/aspnetcore-application
+
+
+
+https://www.youtube.com/watch?v=7iCnCLQYxc8
+
+https://www.youtube.com/watch?v=WWpauKF__fQ
+
+
+DEPOIS DE MVP, PESQUISAR RAZO E BLAZOR 
+
+FOR MYSQL LATER:
+https://www.youtube.com/watch?v=eP2Plc258lo
 
 
 
